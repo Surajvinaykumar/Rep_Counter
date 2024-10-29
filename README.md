@@ -1,5 +1,5 @@
-##Rep Counter
-# This project leverages OpenCV and MediaPipe to analyze joint movements during bicep curl exercises, focusing on the precise calculation of joint angles to detect repetitions. Utilizing Python as the primary programming language, the application captures real-time video input from a webcam and employs pose estimation techniques to identify key landmarks on the user’s body.
+## Rep Counter
+ This project leverages OpenCV and MediaPipe to analyze joint movements during bicep curl exercises, focusing on the precise calculation of joint angles to detect repetitions. Utilizing Python as the primary programming language, the application captures real-time video input from a webcam and employs pose estimation techniques to identify key landmarks on the user’s body.
 
 The core functionality revolves around calculating the angle of the elbow joint, which is pivotal for assessing the execution of the bicep curl. By monitoring the position of the arm throughout the motion, the application accurately determines when a repetition occurs, providing users with immediate feedback on their performance.
 
